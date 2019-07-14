@@ -1,0 +1,37 @@
+Open Hours:
+Mon	10:00-22:00
+Tue	10:00-22:00
+Wed	10:00-22:00
+Thu	10:00-22:00
+Fri	10:00-22:00
+Sat	10:00-22:00
+Sun	10:00-22:00
+
+MANU
+
+Main Manu
+
+Tom Yum Soup	$5.00
+Tom Yum Noodle Soup	$9.00
+Basil Sauce with Fried Egg	
+	Chicken..........$9.00
+	Beef.............$10.00
+	Mixed Vegetables.$9.00
+	Shrimp...........$10.00
+Thai Fried Rice
+	Chicken..........$9.00
+	Tofu.............$9.00
+	Mixed Vegetables.$9.00
+	Beef.............$10.00
+
+Side Order
+
+Jasmine Rice	$1.00
+Fried Egg	$1.00
+Steamed Mixed Vegetables	$3.00
+
+Drinks
+
+Thai Ice Tea	$3.00
+Thai Ice Coffee	$3.00
+Thai Green Tea	$3.00

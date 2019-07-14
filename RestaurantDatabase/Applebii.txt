@@ -1,0 +1,41 @@
+Open Hours:
+Mon	11:00-23:00
+Tue 	11:00-23:00
+Wed 	11:00-23:00
+Thu 	11:00-23:00
+Fri 	11:00-00:00
+Sat	11:00-00:00
+Sun	11:00-22:00
+
+MANU
+
+Fajitas
+
+Loaded Shrimp Fajitas	1440 CALS	$20.99
+Loaded Chicken Fajitas	1560 CALS	$18.99
+Loaded Sirloin Steak Fajitas	1660 CALS	$22.99
+
+Appetizers
+
+The Classic Combo	2280 CALS	$20.99
+Mozzarella Sticks	910 CALS	$7.99
+Chicken Quesadilla	870 CALS	$14.99
+
+
+Steaks & Ribs
+
+Bourbon Streak Steak	650 CALS	$23.99
+Double-Glazed Baby Back Ribs	950 CALS	$25.99
+Half Rack Double-Glazed Baby Back Ribs	470 CALS	$17.99
+
+Chicken
+
+Fiesta Lime Chicken	1120 CALS	$18.99
+Chicken Tenders platter	1230 CALS	$17.89
+Cedar Grilled Lemon Chicken	600 CAlS	$16.99
+
+Salads
+
+Strawberry Balsamic Chicken Salad	850 CALS	$17.99
+Tuscan Garden Shrimp Salad	720 CALS	$18.49
+Crispy Chicken Tender Salad	1370 CALS	$17.99

@@ -1,0 +1,47 @@
+Open Hours:
+Mon	11:00-22:30
+Tue	11:00-22:30
+Wed	11:00-22:30
+Thu	11:00-22:30
+Fri	11:00-23:00
+Sat	11:00-23:00
+Sun	12:00-22:30
+
+MANU
+
+Appetizers
+
+Shanghai Vegetable Spring Rolls (2)	$1.95
+Roast Pork Egg Roll	$1.55
+Shrimp Roll	$1.65
+Fried Wonton (10)	$3.95
+Shrimp Toast (4)	$3.45
+Fried Shrimps (16)	$5.35
+
+Fried Rice
+
+Vegetable Fried Rice	$4.65
+Roast Pork Fried Rice	$4.65
+Chicken Fried rice 	$4.65
+Beef Fried Rice 	$4.65
+
+Lo Mein
+
+Vegetable Lo Mein	$5.55
+Shrimp lo Mein	$6.15
+Plain Lo Mein	$3.95
+House Special Lo Mein	$6.45
+
+Chow Fun
+
+Roast Pork Chow Fun	$5.55
+Chicken Chow Fun	$5.55
+Beef Chow Fun		$6.15
+
+Mei Fun
+
+Chicken Mei Fun	$5.55
+Shrimp Mei Fun	$6.15
+Singapore rice Noodle	$6.45
+
+

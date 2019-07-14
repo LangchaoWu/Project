@@ -1,0 +1,31 @@
+Delivery Hours 			Pickup Hours		
+Sunday				Sunday
+11:00 AM - 9:15 PM			11:00 AM - 9:45 PM
+Monday				Monday
+11:00 AM - 9:15 PM			11:00 AM - 9:45 PM
+Tuesday				Tuesday
+11:00 AM - 9:15 PM			11:00 AM - 9:45 PM
+Wednesday			Wednesday
+11:00 AM - 9:15 PM			11:00 AM - 9:45 PM
+Thursday				Thursday
+11:00 AM - 9:15 PM			11:00 AM - 9:45 PM
+Friday				Friday
+11:00 AM - 9:15 PM			11:00 AM - 9:45 PM
+Saturday				Saturday
+11:00 AM - 9:15 PM			11:00 AM - 9:45 PM
+
+
+			Menu
+			Pizza
+		Cheese Pizza	$12.00
+		Sal's Special Pizza	$20.00
+		-With 5 toppings.	
+
+		          Specialty Pizza
+		Hawaiian Pizza
+		-Pineapple and ham.	$16.50
+		Fresh Tomatoes Onion & Cheese Pizza $16.50
+		Grilled Chicken Broccoli Tomatoes & Cheese Pizza $19.00
+		
+				
+	

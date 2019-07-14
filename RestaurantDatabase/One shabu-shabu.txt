@@ -1,0 +1,40 @@
+Hours
+Mon	12:00 pm - 3:00 pm
+6:00 pm - 10:00 pm	
+Tue	12:00 pm - 3:00 pm
+6:00 pm - 10:00 pm	
+Wed	12:00 pm - 3:00 pm
+6:00 pm - 10:00 pm	
+Thu	12:00 pm - 3:00 pm
+6:00 pm - 10:00 pm	
+Fri	12:00 pm - 10:00 pm	
+Sat	11:00 am - 10:00 pm	
+Sun	11:00 am - 10:00 pm
+
+Menu
+
+Buffet Items
+
+Seasonal Vegetables
+Fishcakes
+Dumplings
+Rice Cakes
+Noodles
+
+Broth
+Dashi
+-Bonito Flakes&Kelp
+Spice Dashi
+-Spicy Radish Strips added to Dashi Base
+
+Meat
+Fatty Beef      	  Chicken
+Non Fatty Beef   	  pork
+Prime Beef 	  Tripe
+Ribeye Beef	  Lamb
+
+Seafood 
+Seafood Combo
+White Fish Plate
+Top Neck Clams
+

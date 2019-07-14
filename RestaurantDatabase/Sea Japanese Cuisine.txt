@@ -1,0 +1,50 @@
+Open Hours:
+Mon	11:30-22:30
+Tue	11:30-22:30
+Wed	11:30-22:30
+Thu	11:30-22:30
+Fri	11:30-23:00
+Sat	11:30-23:00
+Sun	11:30-22:30
+
+MANU
+
+Soup
+
+Miso Soup	$3
+Shitake Mushroom Soup	$5
+Seafood Soup	$8
+Lemongrass Tom Yum Soup	$6
+Avocado Soup	$6
+Vegetable Soup	$5
+New England Clam Chowder $5
+
+
+Salads
+
+Mango Avocado Salad	$8
+Crispy Spicy Salmon Salad	$5
+Chicken Apple Salad	$8
+
+Kitchen Appetizer
+
+Hamachi Kama	$12
+Sali Kama	$6
+Ika Maruyaki	$11
+Gyoza(6 pcs)	$5
+Tako Yaki(6 pcs)	$5
+
+
+Maki& Hand Rolls
+
+California Maki Roll or Hand Roll	$5
+Boston Maki Roll or Hand Roll	$5
+Alaska Maki Roll or Hand Roll	$6
+
+Maki Rolls Combo
+
+Spicy Roll Combo	$15
+Maki Combo	$15
+Vegetable Maki Combo	$12
+
+
